@@ -1,0 +1,3 @@
+[submodule "sb-twitter-feed-widget"]
+	path = sb-twitter-feed-widget
+	url = https://github.com/conwabueze/sb-twitter-feed-widget
