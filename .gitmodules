@@ -4,3 +4,6 @@
 [submodule "sb-tradingview-symbolinfo-widget"]
 	path = sb-tradingview-symbolinfo-widget
 	url = https://github.com/conwabueze/sb-tradingview-symbolinfo-widget
+[submodule "sb-aa-widget"]
+	path = sb-aa-widget
+	url = https://github.com/conwabueze/sb-aa-widget
