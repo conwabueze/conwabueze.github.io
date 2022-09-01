@@ -7,3 +7,6 @@
 [submodule "sb-aa-widget"]
 	path = sb-aa-widget
 	url = https://github.com/conwabueze/sb-aa-widget
+[submodule "sb-embed-code-widget"]
+	path = sb-embed-code-widget
+	url = https://github.com/conwabueze/sb-embed-code-widget
