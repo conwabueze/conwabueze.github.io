@@ -10,3 +10,6 @@
 [submodule "sb-embed-code-widget"]
 	path = sb-embed-code-widget
 	url = https://github.com/conwabueze/sb-embed-code-widget
+[submodule "sb-vid-embed-ex"]
+	path = sb-vid-embed-ex
+	url = https://github.com/conwabueze/sb-vid-embed-ex
