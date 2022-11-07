@@ -13,3 +13,6 @@
 [submodule "sb-vid-embed-ex"]
 	path = sb-vid-embed-ex
 	url = https://github.com/conwabueze/sb-vid-embed-ex
+[submodule "sb-weather-widget"]
+	path = sb-weather-widget
+	url = https://github.com/conwabueze/sb-weather-widget
