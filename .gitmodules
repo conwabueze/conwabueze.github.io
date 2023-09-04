@@ -16,3 +16,6 @@
 [submodule "sb-weather-widget"]
 	path = sb-weather-widget
 	url = https://github.com/conwabueze/sb-weather-widget
+[submodule "sb-scrolling-banner"]
+	path = sb-scrolling-banner
+	url = https://github.com/conwabueze/sb-scrolling-banner
